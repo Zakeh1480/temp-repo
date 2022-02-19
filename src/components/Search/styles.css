@@ -1,0 +1,7 @@
+.search-input {
+    width: 50%;
+    font-size: 23px;
+    padding: 5px 10px;
+    display: flex;
+    margin: 0 auto;
+}
